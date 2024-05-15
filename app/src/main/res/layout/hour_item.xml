@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    android:paddingStart="14dp"
+    android:paddingEnd="14dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvHTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:textColor="@color/text_color"/>
+    <ImageView
+        android:id="@+id/imgHour"
+        android:layout_marginTop="10dp"
+        android:layout_width="48dp"
+        android:layout_height="48dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="4dp">
+
+        <ImageView
+            android:layout_width="12dp"
+            android:layout_height="12dp"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:src="@drawable/icon_humidity"/>
+        <TextView
+            android:id="@+id/tvHHum"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="@color/text_color"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tvHTemp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:layout_marginTop="12dp"
+        android:textColor="@color/text_color"/>
+
+</LinearLayout>
+

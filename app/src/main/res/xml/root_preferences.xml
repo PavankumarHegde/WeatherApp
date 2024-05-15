@@ -1,0 +1,60 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        app:iconSpaceReserved="false"
+        android:layout="@layout/settings_general">
+
+        <ListPreference
+            app:defaultValue="C°"
+            app:entries="@array/unit_entries"
+            app:entryValues="@array/unit_values"
+            app:key="UNIT"
+            app:title="Unit"
+            app:useSimpleSummaryProvider="true"
+            app:iconSpaceReserved="false"/>
+
+<!--        <SwitchPreference-->
+<!--            app:key="DARK_MODE"-->
+<!--            app:title="Dark mode"-->
+<!--            app:iconSpaceReserved="false"/>-->
+
+        <Preference
+            app:key="MANAGE_LOCATION"
+            app:title="Manage Locations"
+            app:iconSpaceReserved="false">
+            <intent
+                android:targetPackage="com.pavankumarhegde.weatherapp"
+                android:targetClass="com.pavankumarhegde.weatherapp.LocationManagerActivity" />
+        </Preference>
+
+        <PreferenceCategory
+            app:iconSpaceReserved="false"
+            android:layout="@layout/settings_about">
+
+            <Preference
+                app:key="about"
+                app:summary="@string/about_desc"
+                app:iconSpaceReserved="false"/>
+
+            <Preference
+                app:title="Version"
+                app:key="version"
+                app:summary="@string/version"
+                app:iconSpaceReserved="false"/>
+
+            <Preference
+                app:title="@string/privay_policy"
+                app:key="privacy_policy"
+                app:iconSpaceReserved="false"/>
+
+            <Preference
+                app:title="@string/terms_cons"
+                app:key="terms_condition"
+                app:iconSpaceReserved="false"/>
+
+        </PreferenceCategory>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,39 @@
+Effective Date: [15-05-2024]
+
+Welcome to the Weather App, developed by Pavankumar Hegde. By downloading, installing, or using the Weather App, you agree to be bound by the following terms and conditions. If you do not agree to these terms, please do not use the Weather App.
+
+Use of the Weather App
+License: We grant you a limited, non-exclusive, non-transferable license to download, install, and use the Weather App for your personal, non-commercial use only. You may not modify, distribute, or resell the Weather App or any of its contents.
+
+User Conduct: You agree to use the Weather App in compliance with all applicable laws, regulations, and third-party agreements. You may not use the Weather App for any unlawful or unauthorized purpose, including but not limited to, infringing intellectual property rights, distributing malware, or engaging in fraudulent activities.
+
+Location Information
+Collection of Location Information: The Weather App may collect and use your precise location information to provide you with accurate weather forecasts based on your current location. This information may be obtained using GPS, Wi-Fi, or cellular network signals.
+
+Use of Location Information: We only collect your current location to provide you with weather forecasts and do not store or share this information with third parties. Location information is used solely within the Weather App and is not used for any other purpose.
+
+Intellectual Property
+Ownership: The Weather App, including all content, features, and functionality, is owned by Pavankumar Hegde and protected by copyright, trademark, and other intellectual property laws. You may not reproduce, distribute, or create derivative works based on the Weather App without our prior written consent.
+
+Third-Party Materials: The Weather App may contain third-party content, services, or links to external websites. We do not endorse, control, or assume responsibility for any third-party materials, and your use of such materials is at your own risk.
+
+Disclaimer of Warranties
+As-Is Basis: The Weather App is provided on an "as-is" and "as available" basis, without any warranties or representations of any kind, express or implied. We disclaim all warranties, including but not limited to, merchantability, fitness for a particular purpose, and non-infringement.
+
+Accuracy of Information: While we strive to provide accurate and up-to-date weather information, we do not guarantee the accuracy, completeness, or reliability of any information provided by the Weather App. Weather forecasts are based on data obtained from third-party sources and may be subject to inaccuracies or delays.
+
+Limitation of Liability
+Exclusion of Damages: In no event shall [Your Company Name] or its affiliates be liable for any direct, indirect, incidental, special, or consequential damages arising out of or in connection with your use or inability to use the Weather App, even if we have been advised of the possibility of such damages.
+
+Indemnification: You agree to indemnify, defend, and hold harmless [Your Company Name] and its affiliates from any claims, damages, liabilities, and expenses (including attorney fees) arising out of or related to your violation of these terms or your use of the Weather App.
+
+Governing Law
+These terms and conditions shall be governed by and construed in accordance with the laws of India, without regard to its conflict of law provisions. Any disputes arising under these terms shall be subject to the exclusive jurisdiction of the courts located in [Your Jurisdiction].
+
+Changes to Terms and Conditions
+We reserve the right to update or modify these terms and conditions at any time without prior notice. We will notify users of any material changes by posting the updated terms and conditions within the Weather App. Your continued use of the Weather App after any changes to these terms constitutes acceptance of those changes.
+
+Contact Us
+If you have any questions, concerns, or feedback regarding these terms and conditions, please contact us at pavankumarkanni@gmail.com .
+
+Thank you for using the Weather App. We hope you find it useful and enjoyable!

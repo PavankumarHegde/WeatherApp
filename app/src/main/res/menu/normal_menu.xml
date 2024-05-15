@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/add_location"
+        android:title="@string/add"
+        android:icon="@drawable/ic_add_white_64dp"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/edit_location"
+        android:title="@string/edit"
+        android:icon="@drawable/ic_baseline_edit_24"
+        app:showAsAction="ifRoom"
+        />
+</menu>

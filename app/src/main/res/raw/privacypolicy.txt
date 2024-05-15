@@ -1,0 +1,32 @@
+Effective Date: [15-05-2024]
+
+Thank you for choosing the Weather App, developed by Pavankumar Hegde. We are committed to protecting your privacy and providing you with transparency regarding the collection, use, and disclosure of your personal information when using our application.
+
+This Privacy Policy outlines how we collect, use, store, and disclose information obtained from users of the Weather App. By downloading, installing, or using the Weather App, you agree to the terms outlined in this Privacy Policy.
+
+Information Collection and Use
+Location Information
+The Weather App may collect and use your precise location information to provide you with accurate weather forecasts based on your current location. This information may be obtained using GPS, Wi-Fi, or cellular network signals. You have the option to enable or disable location services within the app settings.
+
+Personal Information
+We do not collect any kind of personal information such as your name, email address, or other contact details.
+
+Usage Data
+The Weather App may collect usage data, including but not limited to, your device type, operating system version, app usage statistics, and interactions within the application. This data helps us understand how users interact with the app and enables us to optimize performance, enhance features, and improve user experience.
+
+Information Sharing and Disclosure
+We do not sell, trade, or otherwise transfer your personal information to third parties without your consent, except as described in this Privacy Policy.
+
+Service Providers
+We may engage third-party service providers to assist us in delivering our services, such as cloud hosting, analytics, or customer support. These service providers are contractually obligated to protect your personal information and are prohibited from using it for any other purpose.
+
+Data Security
+We implement industry-standard security measures to protect your personal information from unauthorized access, alteration, disclosure, or destruction. However, no method of transmission over the internet or electronic storage is 100% secure, and we cannot guarantee absolute security of your data.
+
+Changes to this Privacy Policy
+We reserve the right to update or modify this Privacy Policy at any time. We will notify users of any material changes to this policy by posting the updated Privacy Policy on our website or within the Weather App. Your continued use of the Weather App after any changes to this Privacy Policy constitutes acceptance of those changes.
+
+Contact Us
+If you have any questions, concerns, or feedback regarding this Privacy Policy or our privacy practices, please contact us at pavankumarkanni@gmail.com .
+
+Thank you for entrusting us with your privacy. We are committed to protecting and respecting your personal information while providing you with the best possible experience using the Weather App.

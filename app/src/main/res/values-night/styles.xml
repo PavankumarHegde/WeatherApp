@@ -1,0 +1,18 @@
+<resources>
+
+    <style name="AppThemeSetting" parent="Theme.MaterialComponents.DayNight">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/second_bg</item>
+        <item name="colorPrimaryDark">@color/second_bg</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="android:fontFamily">@font/widget_font_2_regular</item>
+        <item name="android:colorAccent">@color/colorPrimary</item>
+        <item name="preferenceTheme">@style/PrefsTheme</item>
+    </style>
+
+    <style name="PrefsTheme" parent="PreferenceThemeOverlay.v14.Material">
+        <item name="android:divider">@null</item>
+        <item name="android:dividerHeight">0dp</item>
+    </style>
+
+</resources>

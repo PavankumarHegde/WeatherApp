@@ -1,0 +1,159 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="180dp"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent"
+    android:padding="@dimen/widget_margin"
+    android:id="@+id/widget3_layout">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/widget3_location"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="22sp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="4dp"
+            android:fontFamily="@font/widget_font_2"
+            android:textColor="@android:color/primary_text_dark" />
+
+        <TextClock
+            android:id="@+id/widget3_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:format12Hour="EEE, dd MMMM"
+            android:layout_gravity="center"
+            android:layout_marginBottom="8dp"
+            android:textSize="16sp"
+            android:fontFamily="@font/widget_font_2"
+            android:textColor="@android:color/primary_text_dark" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
+            <ImageView
+                android:id="@+id/widget3_main_img"
+                android:layout_width="80dp"
+                android:layout_height="80dp" />
+            <TextView
+                android:id="@+id/widget3_main_temp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="60sp"
+                android:fontFamily="@font/widget_font_2"
+                android:textColor="@android:color/primary_text_dark"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textSize="36sp"
+                android:paddingTop="8dp"
+                android:text="°"
+                android:fontFamily="@font/widget_font_2"
+                android:textColor="@android:color/primary_text_dark"/>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/widget3_condition"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textAlignment="center"
+            android:fontFamily="@font/widget_font_2"
+            android:textColor="@android:color/primary_text_dark"/>
+
+        <TextView
+            android:id="@+id/widget3_temp_desc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textColor="@android:color/primary_text_dark"
+            android:fontFamily="@font/widget_font_2"
+            android:layout_marginTop="4dp"
+            android:textAlignment="center"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="4dp"
+            android:layout_marginTop="4dp">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_weight="1">
+                <ImageView
+                    android:id="@+id/widget3_1_img"
+                    android:layout_width="54dp"
+                    android:layout_height="54dp"
+                    android:layout_gravity="center"/>
+                <TextView
+                    android:id="@+id/widget3_1_day"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textAlignment="center"
+                    android:textSize="16sp"
+                    android:fontFamily="@font/widget_font_2"
+                    android:textColor="@android:color/primary_text_dark"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_weight="1">
+                <ImageView
+                    android:id="@+id/widget3_2_img"
+                    android:layout_width="54dp"
+                    android:layout_height="54dp"
+                    android:layout_gravity="center"/>
+                <TextView
+                    android:id="@+id/widget3_2_day"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textAlignment="center"
+                    android:textSize="16sp"
+                    android:fontFamily="@font/widget_font_2"
+                    android:textColor="@android:color/primary_text_dark"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_weight="1">
+                <ImageView
+                    android:id="@+id/widget3_3_img"
+                    android:layout_width="54dp"
+                    android:layout_height="54dp"
+                    android:layout_gravity="center"/>
+                <TextView
+                    android:id="@+id/widget3_3_day"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textAlignment="center"
+                    android:textSize="16sp"
+                    android:fontFamily="@font/widget_font_2"
+                    android:textColor="@android:color/primary_text_dark"/>
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/widget3_last_update"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:textAlignment="center"
+            android:fontFamily="@font/widget_font_2"
+            android:textColor="@android:color/primary_text_dark"/>
+    </LinearLayout>
+
+</RelativeLayout>
