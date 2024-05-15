@@ -1,7 +1,17 @@
 Weather App
+
+Find Documentation Here: https://github.com/PavankumarHegde/WeatherApp/blob/master/Documentation.pdf
+
+Find APK File for Testinng  Here: https://github.com/PavankumarHegde/WeatherApp/blob/master/WeatherApp.apk
+
+
 INTRODUCTION
+
 Welcome to the documentation for the Weather App developed by Pavankumar Hegde. This document provides an overview of the application, its features, technical implementation details, and instructions for building, running, and testing the application.
-	The Weather App is a simple Android application designed to provide users with weather forecast information based on their location. The application retrieves weather data from the WeatherAPI and displays relevant information such as temperature, humidity, wind speed, and weather conditions. Users can search for weather forecasts by entering a city name or zip code.
+	
+ The Weather App is a simple Android application designed to provide users with weather forecast information based on their location. The application retrieves weather data from the WeatherAPI and displays relevant information such as temperature, humidity, wind speed, and weather conditions. Users can search for weather forecasts by entering a city name or zip code.
+
+
 Problem Statement:
 The objective of this test task is to assess your proficiency in Android app development. You will be required to create a simple Android application that demonstrates your skills in UI/UX design, data management, and integration with RESTful APIs. Instructions: * Application Description: 
 •	Develop a simple weather forecast application for Android devices. 
