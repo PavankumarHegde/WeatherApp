@@ -14,7 +14,7 @@ import okhttp3.Response;
 public class WeatherAPI {
 
 
-    public static final String api_key="d31b6fd3a5f840e3aa3142528200108";//weather api key
+    public static final String api_key="INSERT_YOUR_WEATHER_API_KEY";//weather api key
     //public static final String api_key="86b0d39444a9e3b98a76995d2c636bb1";//weather api key
 
     public static final int no_days = 3;// no of days
